@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://www.facebook.com/shuvoanind7">
-    <img width="65%" alt="Hello, I'm shuvo, I love coding :)" src="https://raw.githubusercontent.com/SUVO-404/SUVO-404/refs/heads/main/assests/SHAJON.png" />
+    <img width="65%" alt="Hello, I'm shuvo, I love coding :)" src="https://raw.githubusercontent.com/SUVO-404/SUVO-404/refs/heads/main/assests/SHUVO.png" />
   </a>
 </p>
 <p align="center"><img src="https://raw.githubusercontent.com/SUVO-404/SUVO-404/main/assests/Rainbow.gif" width="100%"></p>
